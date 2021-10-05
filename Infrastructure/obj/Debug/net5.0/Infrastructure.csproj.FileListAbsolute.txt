@@ -1,0 +1,15 @@
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\Infrastructure.AssemblyInfo.cs
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\bin\Debug\net5.0\Infrastructure.deps.json
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\bin\Debug\net5.0\Infrastructure.dll
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\bin\Debug\net5.0\ref\Infrastructure.dll
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\bin\Debug\net5.0\Infrastructure.pdb
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\bin\Debug\net5.0\Core.dll
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\bin\Debug\net5.0\Core.pdb
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\Infrastructure.csproj.CopyComplete
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\Infrastructure.dll
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\ref\Infrastructure.dll
+D:\Study\MIT\Semester4\PRT585\Assignment\ECommerce\Infrastructure\obj\Debug\net5.0\Infrastructure.pdb
